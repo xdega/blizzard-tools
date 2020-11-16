@@ -1,0 +1,6 @@
+# Local User Settings
+/.editorconfig
+/.gitattributes
+
+# Files Managed by Composer
+/vendor
