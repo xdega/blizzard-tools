@@ -1,8 +1,6 @@
-# Drupal Lab (Docker + Composer)
+# Blizzard Tools
 
-This is a simple repo for investigating development workflows, experimenting with backend edits, and general exploration with the framework. It is designed to be quick and easy to spin up a development workflow with the power of Docker, and Composer.
-
-This default provides a good baseline install from which to rapidly try out new code projects (particularly themes and modules). Avoids a lot of hassle of setting up portable development environments with external tools, has better cross-platform support (especially Linux), and serves as an easy template for version-controlled projects.
+A collection of Drupal Modules to facilitate working with Battle.net REST APIs, and to help build community websites based on Blizzard Entertainment IPs, on the Drupal platform.
 
 ## Getting Started
 
